@@ -1,0 +1,38 @@
+div {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  width: 400px;
+  border: 1px solid rgb(146, 142, 142);
+  padding: 5px;
+  margin: auto;
+  line-height: 30px;
+  text-align: left;
+}
+.text1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  padding-left: 1px;
+  color: black;
+  background-color: chocolate;
+}
+
+.text2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  padding-left: 1px;
+  color: black;
+  background-color: blueviolet;
+}
+.text3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  padding-left: 1px;
+  background-color: aqua;
+  color: black;
+}
+.xxx {
+  line-height: 1px;
+}
+.zzz {
+  line-height: 1px;
+}
